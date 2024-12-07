@@ -1,0 +1,351 @@
+[
+    {
+        "title": "HR Manager",
+        "match": 0,
+        "salaryRange": "$75,000 - $130,000",
+        "icon": "Users2",
+        "requiredTraits": {
+            "D": 30,
+            "I": 60,
+            "S": 70,
+            "C": 40
+        },
+        "description": "Lead HR initiatives and foster positive workplace culture",
+        "skills": [
+            "Employee Relations",
+            "Conflict Resolution",
+            "Policy Development",
+            "Talent Management"
+        ],
+        "culturalValues": [
+            "People-First",
+            "Integrity",
+            "Inclusivity"
+        ],
+        "workEnvironment": "Supportive environment focused on employee well-being",
+        "responsibilities": [
+            "Manage recruitment",
+            "Develop HR policies",
+            "Handle employee relations"
+        ]
+    },
+    {
+        "title": "Software Engineer",
+        "match": 0,
+        "salaryRange": "$60,000 - $120,000",
+        "icon": "Code",
+        "requiredTraits": {
+            "D": 40,
+            "I": 30,
+            "S": 50,
+            "C": 80
+        },
+        "description": "Design, develop, and maintain software systems",
+        "skills": [
+            "Programming",
+            "Problem Solving",
+            "System Design",
+            "Collaboration"
+        ],
+        "culturalValues": [
+            "Innovation",
+            "Precision",
+            "Collaboration"
+        ],
+        "workEnvironment": "Fast-paced and technology-driven workplace",
+        "responsibilities": [
+            "Write clean code",
+            "Collaborate with teams",
+            "Debug and optimize software"
+        ]
+    },
+    {
+        "title": "Marketing Specialist",
+        "match": 0,
+        "salaryRange": "$50,000 - $90,000",
+        "icon": "Megaphone",
+        "requiredTraits": {
+            "D": 30,
+            "I": 80,
+            "S": 40,
+            "C": 50
+        },
+        "description": "Plan and execute marketing campaigns to drive brand growth",
+        "skills": [
+            "Content Creation",
+            "SEO",
+            "Campaign Management",
+            "Data Analysis"
+        ],
+        "culturalValues": [
+            "Creativity",
+            "Customer-Centricity",
+            "Adaptability"
+        ],
+        "workEnvironment": "Dynamic and creative marketing team",
+        "responsibilities": [
+            "Develop marketing strategies",
+            "Analyze campaign performance",
+            "Engage with target audiences"
+        ]
+    },
+    {
+        "title": "Operations Manager",
+        "match": 0,
+        "salaryRange": "$70,000 - $120,000",
+        "icon": "Settings",
+        "requiredTraits": {
+            "D": 60,
+            "I": 40,
+            "S": 70,
+            "C": 60
+        },
+        "description": "Ensure operational excellence across all business processes",
+        "skills": [
+            "Process Improvement",
+            "Team Management",
+            "Budgeting"
+        ],
+        "culturalValues": [
+            "Efficiency",
+            "Accountability",
+            "Leadership"
+        ],
+        "workEnvironment": "Structured environment with a focus on continuous improvement",
+        "responsibilities": [
+            "Oversee daily operations",
+            "Streamline workflows",
+            "Monitor budgets"
+        ]
+    },
+    {
+        "title": "UX/UI Designer",
+        "match": 0,
+        "salaryRange": "$50,000 - $95,000",
+        "icon": "Design",
+        "requiredTraits": {
+            "D": 20,
+            "I": 50,
+            "S": 60,
+            "C": 70
+        },
+        "description": "Create user-centered designs that enhance user experience",
+        "skills": [
+            "User Research",
+            "Wireframing",
+            "Prototyping",
+            "Design Tools"
+        ],
+        "culturalValues": [
+            "User-Centricity",
+            "Creativity",
+            "Attention to Detail"
+        ],
+        "workEnvironment": "Collaborative design studio with cutting-edge tools",
+        "responsibilities": [
+            "Conduct user research",
+            "Design intuitive interfaces",
+            "Collaborate with developers"
+        ]
+    },
+    {
+        "title": "Data Analyst",
+        "match": 0,
+        "salaryRange": "$60,000 - $110,000",
+        "icon": "Chart",
+        "requiredTraits": {
+            "D": 30,
+            "I": 20,
+            "S": 50,
+            "C": 80
+        },
+        "description": "Analyze and interpret data to drive business insights",
+        "skills": [
+            "Data Visualization",
+            "SQL",
+            "Critical Thinking"
+        ],
+        "culturalValues": [
+            "Accuracy",
+            "Curiosity",
+            "Strategic Thinking"
+        ],
+        "workEnvironment": "Results-oriented and data-driven organization",
+        "responsibilities": [
+            "Analyze datasets",
+            "Prepare reports",
+            "Identify trends"
+        ]
+    },
+    {
+        "title": "Financial Advisor",
+        "match": 0,
+        "salaryRange": "$50,000 - $100,000",
+        "icon": "Coins",
+        "requiredTraits": {
+            "D": 50,
+            "I": 70,
+            "S": 40,
+            "C": 50
+        },
+        "description": "Guide clients in making sound financial decisions",
+        "skills": [
+            "Client Management",
+            "Financial Planning",
+            "Sales"
+        ],
+        "culturalValues": [
+            "Trustworthiness",
+            "Integrity",
+            "Customer Focus"
+        ],
+        "workEnvironment": "Client-focused and professional setting",
+        "responsibilities": [
+            "Develop financial plans",
+            "Provide investment advice",
+            "Maintain client relationships"
+        ]
+    },
+    {
+        "title": "Nurse",
+        "match": 0,
+        "salaryRange": "$45,000 - $85,000",
+        "icon": "Heartbeat",
+        "requiredTraits": {
+            "D": 20,
+            "I": 30,
+            "S": 90,
+            "C": 50
+        },
+        "description": "Provide care and support to patients in need",
+        "skills": [
+            "Patient Care",
+            "Adaptability",
+            "Teamwork"
+        ],
+        "culturalValues": [
+            "Compassion",
+            "Resilience",
+            "Dedication"
+        ],
+        "workEnvironment": "Supportive healthcare facility",
+        "responsibilities": [
+            "Administer treatments",
+            "Monitor patient progress",
+            "Educate patients and families"
+        ]
+    },
+    {
+        "title": "Project Manager",
+        "match": 0,
+        "salaryRange": "$75,000 - $130,000",
+        "icon": "Clipboard",
+        "requiredTraits": {
+            "D": 70,
+            "I": 60,
+            "S": 50,
+            "C": 50
+        },
+        "description": "Plan, execute, and oversee projects to ensure success",
+        "skills": [
+            "Leadership",
+            "Stakeholder Communication"
+        ],
+        "culturalValues": [
+            "Goal-Oriented",
+            "Accountability",
+            "Collaboration"
+        ],
+        "workEnvironment": "Fast-paced and deadline-driven workplace",
+        "responsibilities": [
+            "Define project scope",
+            "Manage teams",
+            "Ensure project delivery"
+        ]
+    },
+    {
+        "title": "Retail Manager",
+        "match": 0,
+        "salaryRange": "$40,000 - $80,000",
+        "icon": "Shop",
+        "requiredTraits": {
+            "D": 40,
+            "I": 70,
+            "S": 60,
+            "C": 40
+        },
+        "description": "Oversee retail store operations and lead the sales team",
+        "skills": [
+            "Customer Service",
+            "Inventory Management"
+        ],
+        "culturalValues": [
+            "Customer Focus",
+            "Team Leadership"
+        ],
+        "workEnvironment": "Dynamic retail environment",
+        "responsibilities": [
+            "Manage store operations",
+            "Ensure customer satisfaction",
+            "Drive sales performance"
+        ]
+    },
+    {
+        "title": "Teacher (Secondary Education)",
+        "match": 0,
+        "salaryRange": "$55,000 - $90,000",
+        "icon": "Book",
+        "requiredTraits": {
+            "D": 20,
+            "I": 50,
+            "S": 80,
+            "C": 60
+        },
+        "description": "Educate and inspire young minds in secondary school",
+        "skills": [
+            "Lesson Planning",
+            "Classroom Management",
+            "Subject Expertise"
+        ],
+        "culturalValues": [
+            "Patience",
+            "Empathy",
+            "Lifelong Learning"
+        ],
+        "workEnvironment": "Collaborative and structured learning environment",
+        "responsibilities": [
+            "Create lesson plans",
+            "Teach curriculum",
+            "Engage students in learning"
+        ]
+    },
+    {
+        "title": "Event Planner",
+        "match": 0,
+        "salaryRange": "$40,000 - $85,000",
+        "icon": "Calendar",
+        "requiredTraits": {
+            "D": 50,
+            "I": 80,
+            "S": 50,
+            "C": 40
+        },
+        "description": "Organize and manage successful events for clients",
+        "skills": [
+            "Organizational Skills",
+            "Negotiation",
+            "Time Management"
+        ],
+        "culturalValues": [
+            "Creativity",
+            "Detail-Oriented",
+            "Flexibility"
+        ],
+        "workEnvironment": "Fast-paced and client-focused environment",
+        "responsibilities": [
+            "Plan event logistics",
+            "Coordinate vendors",
+            "Ensure client satisfaction"
+        ]
+    }
+]
