@@ -3,8 +3,6 @@
 import { useState, useEffect } from 'react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
-import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group'
-import { Label } from '@/components/ui/label'
 import { Progress } from '@/components/ui/progress'
 import { 
   Briefcase, 
@@ -41,6 +39,7 @@ import {
   UserRound
 } from 'lucide-react'
 import { type LucideIcon } from 'lucide-react'
+import { RadioGroup } from '@/components/ui/radio-group'
 
 type Question = {
   text: string
@@ -71,19 +70,11 @@ type JobDetail = {
   responsibilities: string[]
 }
 
-type JobDetailExpanded = JobDetail & {
-  isExpanded?: boolean;
-  description: string;
-  responsibilities: string[];
-  skills: string[];
-  culturalValues: string[];
-};
-
 type AIGeneratedSummary = {
   loading: boolean;
   error: string | null;
   content: string | null;
-}
+};
 
 const questions: Question[] = [
   {

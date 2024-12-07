@@ -11,7 +11,7 @@ const openai = new OpenAI({
 
 export async function POST(request: NextRequest) {
   try {
-    const { profile, dominantType } = await request.json();
+    // const { profile, dominantType } = await request.json();
 
     const prompt = `As a typical Singaporean mother commenting on career prospects, create a naggy but loving response in Singlish. Focus on salary potential and job stability:
 
